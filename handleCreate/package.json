@@ -1,0 +1,17 @@
+{
+  "name": "handlecreate",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "test",
+    "start": "node index.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@aws-sdk/client-dynamodb": "^3.377.0",
+    "@aws-sdk/lib-dynamodb": "^3.377.0"
+  }
+}

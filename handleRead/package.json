@@ -1,0 +1,19 @@
+{
+  "name": "handleread",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "test",
+    "start": "node index.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@aws-sdk/client-dynamodb": "^3.377.0",
+    "@aws-sdk/lib-dynamodb": "^3.377.0",
+    "aws-sdk": "^2.1422.0",
+    "jest": "^29.6.1"
+  }
+}
