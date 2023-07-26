@@ -1,5 +1,5 @@
 # serverless-api
-## [PR]()
+## [PR](https://github.com/Laith-Vlad/serverless-api/pull/1)
 ## [deployed link](https://10h9zs5hva.execute-api.us-east-1.amazonaws.com)
 
 
